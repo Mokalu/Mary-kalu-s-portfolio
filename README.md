@@ -23,9 +23,21 @@ Key Findings:
 2. The percentage of survey takers that prefer using python than the other programming languages are about 70%
 
    Visualizations:
+   File attached
 
+   Tools and Technologies:
+   1. Survey tool (Excel)
+   2. Data analysis: (Excel)
+   3. Data Visualization: (PowerBi)
 
-<img width="952" alt="power bi project" src="https://github.com/user-attachments/assets/dfe1748c-3ca6-4987-81d1-ed17939f327b">
+   Skills Demonstrated:
+   1. Data collection and cleaning
+   2. Descriptive and inferential statistics
+   3. Data visualization and communication
+   4. Survey design and implementation
+
+   Conclusion:
+   This project showcases my ability to design and execute a survey, analyse and interprete data, and communicate insights effectively.
 
 
 
